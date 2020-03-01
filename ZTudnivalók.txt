@@ -1,0 +1,5 @@
+A gallery-ben lévõ hkategória html-ek,mnél minden div 1 képet jelent, és egy sorban összesen 12 col összegnek kell lennie, ami 3,4,6,8-asokból jöhet ki
+col-6 col-md-6 col-lg-3
+col-6 col-md-6 col-lg-4
+col-6 col-md-6 col-lg-6
+col-6 col-md-6 col-lg-8
