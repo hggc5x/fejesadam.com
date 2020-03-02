@@ -759,8 +759,3 @@ h1, h2, h3, h4, h5,
     .custom-pagination a:hover {
       background: #ef6c57;
       color: #fff; }
-
-.myprofpic {
-    max-width: 10%;
-    max-height: auto;
-}
