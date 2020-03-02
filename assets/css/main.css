@@ -2820,3 +2820,8 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+.myprofpic{
+  max-width: 20%;
+  max-height: auto;
+}
