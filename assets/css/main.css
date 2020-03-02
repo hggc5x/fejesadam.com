@@ -2822,6 +2822,6 @@ body.is-menu-visible #menu {
   visibility: visible; }
 
 .myprofpic{
-  max-width: 20%;
-  max-height: auto;
+  width: 10%;
+  max-height: 10%;
 }
