@@ -1,5 +1,33 @@
-A gallery-ben lévõ hkategória html-ek,mnél minden div 1 képet jelent, és egy sorban összesen 12 col összegnek kell lennie, ami 3,4,6,8-asokból jöhet ki
+A gallery-ben lévõ kategória html-eknél minden div 1 képet jelent, és egy sorban összesen 12 col összegnek kell lennie, ami 3,4,6,8-asokból jöhet ki
 col-6 col-md-6 col-lg-3
 col-6 col-md-6 col-lg-4
 col-6 col-md-6 col-lg-6
 col-6 col-md-6 col-lg-8
+Soronként az lg-k összegének 12-nek kell lennie
+
+//3-6-3-as példa:
+//Az lg-szám  után a data-aos-delay-re is figyelni kell
+<div class="col-6 col-md-6 col-lg-3" data-aos="fade-up">
+          <a href="/images/photos/fullsize/winter/Candle in Dark Forest.jpg" class="d-block photo-item" data-fancybox="gallery">
+            <img src="/images/photos/thumbnail/winter/candle.jpg" alt="Image" class="img-fluid">
+            <div class="photo-text-more">
+              <span class="icon icon-search"></span>
+            </div>
+          </a>
+        </div>
+        <div class="col-6 col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <a href="/images/photos/fullsize/winter/Frozen ice stuff.jpg" class="d-block photo-item" data-fancybox="gallery">
+            <img src="/images/photos/thumbnail/winter/stuff.jpg" alt="Image" class="img-fluid">
+            <div class="photo-text-more">
+              <span class="icon icon-search"></span>
+            </div>
+          </a>
+        </div>
+        <div class="col-6 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
+          <a href="/images/photos/fullsize/winter/Icy White frozen hydrant.jpg" class="d-block photo-item" data-fancybox="gallery">
+            <img src="/images/photos/thumbnail/winter/hydrate.jpg" alt="Image" class="img-fluid">
+            <div class="photo-text-more">
+              <span class="icon icon-search"></span>
+            </div>
+          </a>
+        </div>
