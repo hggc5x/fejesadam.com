@@ -317,7 +317,6 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background: #19B5FE;
-		background: #706A6D;
 		color: #FFF;
 		border-radius: 4px;
 		border: 0;
@@ -348,7 +347,6 @@
 			.button.active:hover {
 				color: #FFF;
 				background: #22313F;
-				background: #9C9197;
 			}
 
 		input[type="submit"]:hover,
