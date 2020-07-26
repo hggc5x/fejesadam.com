@@ -145,12 +145,15 @@
 
 	a {
 		text-decoration: underline;
-		color: #19B5FE;
+		/* color: #19B5FE;
+		*/
+		color: #3C3040;
 	}
 
 		a:hover {
 			text-decoration: none;
 			color: #019be3;
+			color: #E8FAFD ;
 		}
 
 	strong, b {
