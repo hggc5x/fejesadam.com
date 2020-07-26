@@ -346,7 +346,7 @@
 			button.active:hover,
 			.button.active:hover {
 				color: #FFF;
-				background: #acceee;
+				background: #485085;
 			}
 
 		input[type="submit"]:hover,
@@ -355,7 +355,7 @@
 		button:hover,
 		.button:hover {
 			color: #FFF;
-			background: #019be3;
+			background: #9daaf0;
 		}
 
 		input[type="submit"].alt,
