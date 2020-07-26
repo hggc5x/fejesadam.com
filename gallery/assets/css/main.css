@@ -145,15 +145,12 @@
 
 	a {
 		text-decoration: underline;
-		/* color: #19B5FE;
-		*/
-		color: #3C3040;
+		 color: #19B5FE;
 	}
 
 		a:hover {
 			text-decoration: none;
 			color: #019be3;
-			color: #E8FAFD ;
 		}
 
 	strong, b {
@@ -320,6 +317,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		background: #19B5FE;
+		background: #706A6D;
 		color: #FFF;
 		border-radius: 4px;
 		border: 0;
@@ -350,6 +348,7 @@
 			.button.active:hover {
 				color: #FFF;
 				background: #22313F;
+				background: #9C9197;
 			}
 
 		input[type="submit"]:hover,
