@@ -1,0 +1,442 @@
+# Copyright (C) 2016 WEN Themes
+# This file is distributed under the GNU General Public License, version 2 (GPLv2).
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo Perfect\n"
+"Report-Msgid-Bugs-To: https://wenthemes.com/contact/\n"
+"POT-Creation-Date: 2019-11-17 21:21-0800\n"
+"PO-Revision-Date: 2016-12-07 01:05-0500\n"
+"Last-Translator: WEN Themes <info@wenthemes.com>\n"
+"Language-Team: WEN Themes <info@wenthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "404"
+msgstr ""
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: ../comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:53 ../comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:56 ../comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:57 ../comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:41
+msgid "Social Menu"
+msgstr ""
+
+#: ../functions.php:42
+msgid "404 Menu"
+msgstr ""
+
+#: ../functions.php:123
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:125
+msgid "Add widgets here to appear in your Primary Sidebar."
+msgstr ""
+
+#: ../functions.php:159
+msgid "expand child menu"
+msgstr ""
+
+#: ../functions.php:160
+msgid "collapse child menu"
+msgstr ""
+
+#: ../functions.php:186
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:192
+msgctxt "Arizonia: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/custom-header.php:28
+msgctxt "header image description"
+msgid "Red Rose"
+msgstr ""
+
+#: ../inc/customizer.php:42
+msgid "Photo Perfect Pro"
+msgstr ""
+
+#: ../inc/customizer.php:43
+msgid "Buy Pro"
+msgstr ""
+
+#: ../inc/customizer/default.php:21
+msgid "Menu"
+msgstr ""
+
+#: ../inc/customizer/default.php:23
+msgid "Category"
+msgstr ""
+
+#: ../inc/customizer/default.php:26
+msgid "Search..."
+msgstr ""
+
+#: ../inc/customizer/default.php:39
+msgid "Copyright. All rights reserved."
+msgstr ""
+
+#: ../inc/customizer/default.php:44
+msgid "Read More"
+msgstr ""
+
+#: ../inc/customizer/option.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:17
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:27
+msgid "Search Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:43
+msgid "Show Site Title"
+msgstr ""
+
+#: ../inc/customizer/option.php:59
+msgid "Show Tagline"
+msgstr ""
+
+#: ../inc/customizer/option.php:76
+msgid "Menu Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:93
+msgid "Show Category Dropdown"
+msgstr ""
+
+#: ../inc/customizer/option.php:110
+msgid "Category Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:128
+msgid "Search Placeholder"
+msgstr ""
+
+#: ../inc/customizer/option.php:138
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:155
+msgid "Global Layout"
+msgstr ""
+
+#: ../inc/customizer/option.php:172
+msgid "Archive Layout"
+msgstr ""
+
+#: ../inc/customizer/option.php:189
+msgid "Image in Single Post/Page"
+msgstr ""
+
+#: ../inc/customizer/option.php:206
+msgid "Image Alignment in Single Post/Page"
+msgstr ""
+
+#: ../inc/customizer/option.php:217
+msgid "Pagination Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:234
+msgid "Pagination Type"
+msgstr ""
+
+#: ../inc/customizer/option.php:245
+msgid "Footer Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:262
+msgid "Copyright Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:278
+msgid "Show Go To Top"
+msgstr ""
+
+#: ../inc/customizer/option.php:288
+msgid "Blog Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:305
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: ../inc/customizer/option.php:306
+msgid "Default is 40 words"
+msgstr ""
+
+#: ../inc/customizer/option.php:323
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:333
+msgid "Advanced Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:351
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/helper/options.php:13
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: ../inc/helper/options.php:14
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: ../inc/helper/options.php:15
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/helper/options.php:34
+msgid "Fluid"
+msgstr ""
+
+#: ../inc/helper/options.php:35
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/helper/options.php:57
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: ../inc/helper/options.php:58
+msgid "Numeric"
+msgstr ""
+
+#: ../inc/helper/options.php:76
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/helper/options.php:77
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../inc/helper/options.php:103 ../inc/helper/options.php:135
+msgid "No Image"
+msgstr ""
+
+#: ../inc/helper/options.php:108
+msgid "full (original)"
+msgstr ""
+
+#: ../inc/helper/options.php:137
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/helper/options.php:138
+msgid "Medium"
+msgstr ""
+
+#: ../inc/helper/options.php:139
+msgid "Large"
+msgstr ""
+
+#: ../inc/helper/options.php:140
+msgid "Full"
+msgstr ""
+
+#: ../inc/helper/options.php:167
+msgctxt "Alignment"
+msgid "None"
+msgstr ""
+
+#: ../inc/helper/options.php:168
+msgctxt "Alignment"
+msgid "Left"
+msgstr ""
+
+#: ../inc/helper/options.php:169
+msgctxt "Alignment"
+msgid "Center"
+msgstr ""
+
+#: ../inc/helper/options.php:170
+msgctxt "Alignment"
+msgid "Right"
+msgstr ""
+
+#: ../inc/hook/basic.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../inc/hook/custom.php:10
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/hook/custom.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/hook/custom.php:247
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../inc/hook/custom.php:247
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../inc/hook/custom.php:249
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: ../inc/metabox.php:22
+msgid "Theme Settings"
+msgstr ""
+
+#: ../inc/metabox.php:61
+msgid "Choose Layout"
+msgstr ""
+
+#: ../inc/metabox.php:63 ../inc/metabox.php:75 ../inc/metabox.php:87
+msgid "Default"
+msgstr ""
+
+#: ../inc/metabox.php:73
+msgid "Choose Image Size in Single Post/Page"
+msgstr ""
+
+#: ../inc/metabox.php:85
+msgid "Alignment of Image in Single Post/Page"
+msgstr ""
+
+#: ../inc/support/footer-widgets.php:88
+#, php-format
+msgid "Footer Widget %d"
+msgstr ""
+
+#: ../inc/template-tags.php:78
+msgid "Add comment"
+msgstr ""
+
+#: ../inc/template-tags.php:78 ../inc/template-tags.php:107
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:78 ../inc/template-tags.php:107
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:95
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:101
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:107
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:111 ../template-parts/content-page.php:35
+msgid "Edit"
+msgstr ""
+
+#: ../inc/widgets.php:43
+msgid "Social Icons Widget"
+msgstr ""
+
+#: ../inc/widgets.php:46
+msgid "PP: Social"
+msgstr ""
+
+#: ../inc/widgets.php:125
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets.php:131
+msgid "Social menu is not set. Please create menu and assign it to Social Menu."
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:26 ../template-parts/content-single.php:26
+msgid "Pages:"
+msgstr ""

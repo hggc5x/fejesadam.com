@@ -1,0 +1,237 @@
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+b,
+strong {
+	font-weight: bold;
+}
+
+dfn {
+	font-style: italic;
+}
+
+
+mark {
+	background: #ff0;
+	color: 1000;
+}
+
+small {
+	font-size: 80%;
+}
+
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	top: -0.5em;
+}
+
+sub {
+	bottom: -0.25em;
+}
+
+img {
+	border: 0;
+}
+
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+
+a {
+	color: #191970;
+	text-decoration: inherit;
+}
+a:visited {
+	color: #191970;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color:#333;
+}
+
+a:focus {
+	outline:inherit;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+p {
+	color: #666666;
+	font-size: 14px;
+	margin: 0 0 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+	clear: inherit;
+	font-weight: 600;
+	margin: 0 0 15px;
+}
+h1 {
+	font-size: 28px;
+}
+h2 {
+	font-size: 24px;
+}
+h3{
+	font-size: 20px;
+}
+h4 {
+	font-size: 18px;
+}
+h5 {
+	font-size: 16px;
+}
+h6 {
+	font-size: 14px;
+}
+ul, ol {
+	margin: 0 0 10px 15px;
+	padding: 0;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+blockquote {
+	margin: 0 15px;
+}
+
+address {
+	margin: 0 0 15px;
+}
+
+pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+
+fieldset {
+	border: 1px solid #c0c0c0;
+	margin: 0 2px;
+	padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+	border: 0;
+	padding: 0;
+}
+
+textarea {
+	overflow: auto;
+}
+
+optgroup {
+	font-weight: bold;
+}
+
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+}
+
+blockquote,
+q {
+	quotes: "" "";
+}
+
+hr {
+	background-color: #ccc;
+	border: 0;
+	height: 1px;
+	margin-bottom: 15px;
+}
+
+ul,
+ol {
+	margin: 0 0 15px 15px;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 15px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 15px 15px;
+}
+
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+	vertical-align: middle;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0 0 15px;
+	width: 100%;
+}
+td, th {
+	border: 1px solid #ffffff;
+	padding: 5px;
+}
