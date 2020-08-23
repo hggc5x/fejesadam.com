@@ -788,7 +788,7 @@
 				}
 
 				ul.icons li.inicon a:hover:before {
-					text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+					text-shadow: 1.25px 0px 0px #ffbccd, -1.25px 0px 0px #ffbccd, 0px 1.25px 0px #ffbccd, 0px -1.25px 0px #ffbccd;
 				}
 				
 				ul.icons li.fbicon a:hover:before {
@@ -805,7 +805,7 @@
 					left: 0;
 					width: inherit;
 					height: inherit;
-					font-size: 1.85rem;
+					font-size: 2.25rem;
 					line-height: inherit;
 					text-align: center;
 					text-indent: 0;
@@ -820,7 +820,7 @@
 				}
 
 				ul.icons li.inicon a:hover {
-					border-color: #ff7496;
+					border-color: #ffbccd;
 				}
 
 				ul.icons li.fbicon a:hover {
@@ -1017,13 +1017,12 @@
 		cursor: default;
 		text-align: center;
 		opacity: 20%;
-		font-size: 150%;
 	}
 
 		#footer .copyright {
 			margin: 0;
 			padding: 0;
-			font-size: 0.9em;
+			font-size: 0.5em;
 			list-style: none;
 		}
 
@@ -1088,3 +1087,7 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+#gallerylink {
+	font-size: 1.3em;
+}
